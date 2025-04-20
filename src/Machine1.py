@@ -61,7 +61,6 @@ def predictions(x,y,w,b,xstd,xmean,ystd,ymean,x_train,y_train):
 def R2(x,y,y_pred,w,b):
     y=y.reshape(-1,1)
     pred=(y-y_pred)**2
-    print(pred)
     m=(y-ymean)**2
     numerator = np.sum(pred)
     denominator= np.sum(m)
