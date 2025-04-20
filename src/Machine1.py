@@ -1,8 +1,6 @@
 import numpy as np
 import functions
 
-<<<<<<< HEAD
-=======
 def zscorenormalization(x):
   mean = np.mean(x,axis=0)
   std = np.std(x,axis=0)
