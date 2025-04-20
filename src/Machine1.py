@@ -61,6 +61,7 @@ def predictions(x,y,w,b,xstd,xmean,ystd,ymean,x_train,y_train):
 def R2(x,y,y_pred,w,b):
     y=y.reshape(-1,1)
     pred=(y-y_pred)**2
+    print(pred)
     m=(y-ymean)**2
     numerator = np.sum(pred)
     denominator= np.sum(m)
@@ -80,7 +81,7 @@ def plotting(x, y, w, b, xstd, xmean, ystd, ymean):
   plt.legend()
   plt.show()
   
-data = np.array(np.genfromtxt("src/Salary_Data.csv",delimiter=',',skip_header=1))
+data = np.array(np.genfromtxt("Data/Salary_Data.csv",delimiter=',',skip_header=1))
 x_train=data[:,0].reshape(-1,1)
 y_train=data[:,1]
 
