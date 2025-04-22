@@ -1,7 +1,7 @@
 import numpy as np
 import functions
 
-data = np.array(np.genfromtxt("Data/Salary_Data.csv",delimiter=',',skip_header=1))
+data = np.array(np.genfromtxt("Salary_Prediction/Data/Salary_Data.csv",delimiter=',',skip_header=1))
 x_train=data[:,0].reshape(-1,1)
 y_train=data[:,1]
 
@@ -21,7 +21,5 @@ print("W_final : ",w_final)
 print("B_final",b_final)
 r2 = functions.predictions(x_norm,y_train,w_final,b_final,xstd,xmean,ystd,ymean,x_train,y_train)
 print("R² Score:", r2)
-functions.plotting(x_norm,y_norm,w_final,b_final,xstd, xmean, ystd, ymean)
-
 functions.plotting(x_norm,y_norm,w_final,b_final,xstd, xmean, ystd, ymean)
 
