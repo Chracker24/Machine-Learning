@@ -1,7 +1,7 @@
 # Data File
 ## Salary_Data.csv
 contains data such as Years of Experiene and corresponding Salaries which [Machine1.py](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/src/Machine1.py) trains and predicts on. 
-*Sourced from ****Kaggle ****by ***[Harsh Singh](https://www.kaggle.com/datasets/harsh45/random-salary-data-of-employes-age-wise)**
+*Sourced from* ***Kaggle*** *by* **[Harsh Singh](https://www.kaggle.com/datasets/harsh45/random-salary-data-of-employes-age-wise)**
 
 ## Contents
 ```
