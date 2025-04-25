@@ -14,9 +14,9 @@ Modules imported : ***NumPy, Copy, matplotlib and math***
 # Machine1.py
 Main parent code that trains and predicts based on the data in [Salary_Data.csv](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/Data/Salary_Data.csv)<br>
 imports functions from [functions.py](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/src/functions.py)<br>
-Normalization used : [**Z-Score Normalization**](https://toptipbio.com/wp-content/uploads/2018/07/Z-score-formula.jpg)
-Learning Rate : **0.0001**
-Iterations : **100000**
-R² score = approx **0.95**
+Normalization used : [**Z-Score Normalization**](https://toptipbio.com/wp-content/uploads/2018/07/Z-score-formula.jpg)<br>
+Learning Rate : **0.0001**<br>
+Iterations : **100000**<br>
+R² score = approx **0.95**<br>
 
 modules imported : **NumPy**, ***[functions.py](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/src/functions.py)***
