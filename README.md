@@ -1,7 +1,7 @@
 # Machine-Learning
 ##  📂 Repository Contents
 1. [Salary_Prediction](https://github.com/Chracker24/Machine-Learning/tree/main/Salary_Prediction) - Contains the ML code for predicting Salary from Years of Experience
-    1. [src](https://github.com/Chracker24/Machine-Learning/tree/main/src)
+    1. [src](https://github.com/Chracker24/Machine-Learning/tree/main/Salary_Prediction/src))
        1. [Machine1.py](https://github.com/Chracker24/Machine-Learning/blob/main/src/Machine1.py) - The main parent code
        2. [functions.py](https://github.com/Chracker24/Machine-Learning/blob/main/src/functions.py) - The code that holds all the functions used in the main "Machine1.py" code
     2. [Data](https://github.com/Chracker24/Machine-Learning/tree/main/Data)
