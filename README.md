@@ -14,3 +14,17 @@ From basic models to more complex experiments, this is where I document my learn
 Whether it’s for sharpening concepts, revisiting fundamentals, or preparing for internships and research roles — this repo is the brain dump of my ML grind.
 
 ##  📂 Repository Structure
+```
+Machine Learning
+      |
+      |──Salary_Prediction
+            |──Data
+            |   |──Salary_Data.csv
+            |   |──README.md
+            |──src
+            |   |──Machine1.py
+            |   |──functions.py
+            |   |──README.md
+            |──README.md
+            |──Screenshot
+```
