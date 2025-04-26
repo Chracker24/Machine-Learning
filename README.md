@@ -1,11 +1,11 @@
 # Machine-Learning
 ##  📂 Repository Contents
 1. [Salary_Prediction](https://github.com/Chracker24/Machine-Learning/tree/main/Salary_Prediction) - Contains the ML code for predicting Salary from Years of Experience
-    1. [src](https://github.com/Chracker24/Machine-Learning/tree/main/Salary_Prediction/src))
-       1. [Machine1.py](https://github.com/Chracker24/Machine-Learning/blob/main/src/Machine1.py) - The main parent code
-       2. [functions.py](https://github.com/Chracker24/Machine-Learning/blob/main/src/functions.py) - The code that holds all the functions used in the main "Machine1.py" code
-    2. [Data](https://github.com/Chracker24/Machine-Learning/tree/main/Data)
-       1. [Salary_Data.csv](https://github.com/Chracker24/Machine-Learning/blob/main/Data/Salary_Data.csv) - Contains the Data that "Machine1.py" is trained on. Contains the Years of Experience and corresponding Salary.
+    1. [src](https://github.com/Chracker24/Machine-Learning/tree/main/Salary_Prediction/src)
+       1. [Machine1.py](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/src/Machine1.py) - The main parent code
+       2. [functions.py](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/src/functions.py) - The code that holds all the functions used in the main "Machine1.py" code
+    2. [Data](https://github.com/Chracker24/Machine-Learning/tree/main/Salary_Prediction/Data)
+       1. [Salary_Data.csv](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/Data/Salary_Data.csv) - Contains the Data that "Machine1.py" is trained on. Contains the Years of Experience and corresponding Salary.
 ## 🎯 Purpose of This Repository
 
 This repository serves as my personal playground for exploring, experimenting, and implementing various Machine Learning algorithms and projects.  
