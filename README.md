@@ -4,6 +4,7 @@
     1. [src](https://github.com/Chracker24/Machine-Learning/tree/main/Salary_Prediction/src)
        1. [Machine1.py](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/src/Machine1.py) - The main parent code
        2. [functions.py](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/src/functions.py) - The code that holds all the functions used in the main "Machine1.py" code
+       3. [Machine1_Scikit.py](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/src/Machine1_Scikit.py) - A simplifed version of Machine1.py (which is Raw machine learning code) using Scikit-Learn library modules
     2. [Data](https://github.com/Chracker24/Machine-Learning/tree/main/Salary_Prediction/Data)
        1. [Salary_Data.csv](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/Data/Salary_Data.csv) - Contains the Data that "Machine1.py" is trained on. Contains the Years of Experience and corresponding Salary.
 ## 🎯 Purpose of This Repository
@@ -23,6 +24,7 @@ Machine Learning
             |   |──README.md
             |──src
             |   |──Machine1.py
+                |──Machine1_Scikit.py
             |   |──functions.py
             |   |──README.md
             |──README.md
