@@ -12,6 +12,7 @@ Salary_Prediction
     |──src
     |   |──Machine1.py
     |   |──functions.py
+        |──Machine1_Scikit.py
     |   |──README.md
     |──README.md
     |──Screenshot
