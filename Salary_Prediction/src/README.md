@@ -9,7 +9,7 @@ contains all the functions that are imported and used in [Machine1.py](https://g
 6. **R2** : *computes the R² value of the model using predicted and actual values*
 7. **plotting** : *plots the actual and the predicted line*
 
-Modules imported : ***NumPy, Copy, matplotlib and math***
+*Modules imported* : **NumPy, Copy, matplotlib.pyplot and math**
 
 # Machine1.py
 Main parent code that trains and predicts based on the data in [Salary_Data.csv](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/Data/Salary_Data.csv)<br>
@@ -19,10 +19,12 @@ Learning Rate : **0.0001**<br>
 Iterations : **100000**<br>
 R² score = approx **0.95**<br>
 
-modules imported : **NumPy**, ***[functions.py](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/src/functions.py)***
+*Modules imported* : **NumPy**, ***[functions.py](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/src/functions.py)***
 
 # Machine1_Scikit.py
 code using Sci-kit Learn library to achieve the same output which is the predict Salaries after learning from YoE vs Salaries data in [Salary_Data.csv](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/Data/Salary_Data.csv)
 
 Highest R2 score achieved - **0.99**<br>
-Lower values have also been achieved ensuring that the model works well
+Lower values have also been achieved ensuring that the model works well<br>
+
+*Modules imported* : **sklearn, NumPy, matplotlib.pyplot**
