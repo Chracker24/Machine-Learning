@@ -24,5 +24,5 @@ modules imported : **NumPy**, ***[functions.py](https://github.com/Chracker24/Ma
 # Machine1_Scikit.py
 code using Sci-kit Learn library to achieve the same output which is the predict Salaries after learning from YoE vs Salaries data in [Salary_Data.csv](https://github.com/Chracker24/Machine-Learning/blob/main/Salary_Prediction/Data/Salary_Data.csv)
 
-Highest R2 score achieved - **0.99**
+Highest R2 score achieved - **0.99**<br>
 Lower values have also been achieved ensuring that the model works well
